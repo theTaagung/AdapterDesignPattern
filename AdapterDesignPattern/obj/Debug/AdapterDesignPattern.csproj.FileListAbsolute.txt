@@ -1,0 +1,7 @@
+C:\Users\manso\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe.config
+C:\Users\manso\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe
+C:\Users\manso\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.pdb
+C:\Users\manso\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csprojAssemblyReference.cache
+C:\Users\manso\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\manso\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.exe
+C:\Users\manso\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.pdb
